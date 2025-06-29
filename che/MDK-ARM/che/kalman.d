@@ -1,0 +1,10 @@
+che\kalman.o: ..\algorithm\kalman.c
+che\kalman.o: ..\algorithm\kalman.h
+che\kalman.o: ..\algorithm\arm_math.h
+che\kalman.o: ../Drivers/CMSIS/Include/core_cm4.h
+che\kalman.o: D:\mdk\ARM\ARMCC\Bin\..\include\stdint.h
+che\kalman.o: ../Drivers/CMSIS/Include/cmsis_version.h
+che\kalman.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+che\kalman.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+che\kalman.o: D:\mdk\ARM\ARMCC\Bin\..\include\string.h
+che\kalman.o: D:\mdk\ARM\ARMCC\Bin\..\include\math.h
